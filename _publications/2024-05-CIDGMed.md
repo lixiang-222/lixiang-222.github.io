@@ -1,9 +1,10 @@
 ---
 title: "Dual-Granularity Medication Recommendation Based on Causal Inference"
-collection: arxiv
+
+[//]: # (collection: arxiv)
 
 [//]: # (permalink: /publication/2010-10-01-paper-title-number-2)
-excerpt: 'This article proposes a dual-granularity framework for medication recommendation that utilizes causal inference to combine molecular-level and entity-level relationships, and designs a causality-based bias correction approach.'
+[//]: # (excerpt: 'This article proposes a dual-granularity framework for medication recommendation that utilizes causal inference to combine molecular-level and entity-level relationships, and designs a causality-based bias correction approach.')
 date: 2024-05-01
 venue: 'arxiv'
 paperurl: 'https://arxiv.org/abs/2403.00880'

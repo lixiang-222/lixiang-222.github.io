@@ -1,9 +1,10 @@
 ---
 title: "Relationship Discovery for Drug Recommendation"
-collection: arxiv
+
+[//]: # (collection: arxiv)
 
 [//]: # (permalink: /publication/2010-10-01-paper-title-number-2)
-excerpt: 'This article proposes the use of causal inference to mine personalized representations of patients from their physical context to provide personalized medication recommendations.'
+[//]: # (excerpt: 'This article proposes the use of causal inference to mine personalized representations of patients from their physical context to provide personalized medication recommendations.')
 date: 2024-04-18
 venue: 'arxiv'
 paperurl: 'https://arxiv.org/abs/2404.12228'
