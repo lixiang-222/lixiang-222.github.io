@@ -21,7 +21,7 @@ repository               : "lixiang-222/lixiang-222.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "avatar.png"
   name             : "Xiang Li"
   pronouns         : # example: "she/her"  
   bio              : "Graduate students in the field of Artificial Intelligence"
