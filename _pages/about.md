@@ -8,5 +8,3 @@ redirect_from:
 ---
 
 I am a graduate student at [Yanshan University](https://www.ysu.edu.cn). My research interests include medication recommendation, bioinformatics, molecular representation, causal inference, and multimodal large model.
-
-[Email](lixiang_222@stumail.ysu.edu.cn) / [Github](https://github.com/lixiang-222) / [Google-scholar](https://scholar.google.com.hk/citations?user=boqgYNoAAAAJ&hl=zh-CN) / [ORCID]
