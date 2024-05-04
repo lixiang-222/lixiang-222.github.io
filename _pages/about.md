@@ -16,15 +16,19 @@ redirect_from:
 
 *I'm currently working as a PhD intern
 at [School of Computer Science](https://cs.pku.edu.cn/), [Peking University](https://www.pku.edu.cn/),
-supervised by Prof.[Tengjiao Wang](https://cs.pku.edu.cn/info/1083/1702.htm),
-and hope to enroll next September (if it goes well).*
+
+[//]: # (supervised by Prof.[Tengjiao Wang]&#40;https://cs.pku.edu.cn/info/1083/1702.htm&#41;,)
+and hope to enroll in Sep 2025 (if it goes well).*
 
 ### Short Bio
 
 My name is **Xiang Li (李响)** and I am a graduate student
 at [School of Information Science and Engineering](https://ise.ysu.edu.cn/), [Yanshan University](https://www.ysu.edu.cn/),
-majoring in Artificial Intelligence, supervised by Associate
-Prof.[Shunpan Liang](https://web.ysu.edu.cn/LSP/zh_CN/index/50461/list/index.htm).
+majoring in Artificial Intelligence. 
+
+[//]: # (supervised by Associate)
+
+[//]: # (Prof.[Shunpan Liang]&#40;https://web.ysu.edu.cn/LSP/zh_CN/index/50461/list/index.htm&#41;.)
 
 My research interests include Medication recommendation, Bioinformatics, Molecular learning, Causal inference,
 and Multimodal large model.
