@@ -15,16 +15,16 @@ redirect_from:
 ### Current
 
 *I'm currently working as a PhD intern
-at [School of Computer Science](https://cs.pku.edu.cn/), [Peking University](https://www.pku.edu.cn/),
+at [School of Computer Science](https://cs.pku.edu.cn/), [Peking University](https://www.pku.edu.cn/), and hope to
+enroll in Sep 2025 (if it goes well).*
 
 [//]: # (supervised by Prof.[Tengjiao Wang]&#40;https://cs.pku.edu.cn/info/1083/1702.htm&#41;,)
-and hope to enroll in Sep 2025 (if it goes well).*
 
 ### Short Bio
 
 My name is **Xiang Li (李响)** and I am a graduate student
 at [School of Information Science and Engineering](https://ise.ysu.edu.cn/), [Yanshan University](https://www.ysu.edu.cn/),
-majoring in Artificial Intelligence. 
+majoring in Artificial Intelligence.
 
 [//]: # (supervised by Associate)
 
