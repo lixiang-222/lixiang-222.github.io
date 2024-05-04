@@ -8,10 +8,10 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-title                    : "Xiang Li/ Personal Homepage"
+title                    : "Xiang Li"
 title_separator          : "-"
 name                     : &name "Xiang Li"
-description              : &description "Graduate student at Yanshan University"
+description              : &description "An artificial intelligence graduate student."
 url                      : https://lixiang-222.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "lixiang-222/lixiang-222.github.io"
@@ -21,7 +21,7 @@ repository               : "lixiang-222/lixiang-222.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "avatar.png"
   name             : "Xiang Li"
   pronouns         : # example: "she/her"  
   bio              : "Graduate students in the field of Artificial Intelligence"
