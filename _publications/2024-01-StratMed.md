@@ -9,7 +9,8 @@ paperurl: 'https://linkinghub.elsevier.com/retrieve/pii/S0950705123009887'
 citation: 'Li X, Liang S, Hou Y, et al. StratMed: Relevance stratification between biomedical entities for sparsity on
 medication recommendation[J]. Knowledge-Based Systems, 2024, 284: 111239.'
 ---
-Project completion date: 2023-09
+
+Project completion date: 2023-09  
 Final publication date: 2024-01
 
 With the growing imbalance between limited medical resources and escalating demands, AI-based clinical tasks have become
