@@ -35,8 +35,9 @@ and Multimodal large model.
 
 ### Education
 
-* Sep 2025 — Jun 2029 Ph.D.
-  at [School of Computer Science](https://cs.pku.edu.cn/), [Peking University](https://www.pku.edu.cn/) (expected)
+[//]: # (* Sep 2025 — Jun 2029 Ph.D.)
+
+[//]: # (  at [School of Computer Science]&#40;https://cs.pku.edu.cn/&#41;, [Peking University]&#40;https://www.pku.edu.cn/&#41; &#40;expected&#41;)
 * Sep 2022 — Jun 2025 M.Eng.
   at [School of Information Science and Engineering](https://ise.ysu.edu.cn/), [Yanshan University](https://www.ysu.edu.cn/)
 * Sep 2018 — Jun 2022 B.E.
