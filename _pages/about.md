@@ -22,7 +22,7 @@ enroll in Sep 2025 (if it goes well).*
 
 ### Short Bio
 
-My name is **Xiang Li (李响)** and I am a graduate student
+My name is **Xiang Li** and I am a graduate student
 at [School of Information Science and Engineering](https://ise.ysu.edu.cn/), [Yanshan University](https://www.ysu.edu.cn/),
 majoring in Artificial Intelligence.
 
@@ -30,8 +30,7 @@ majoring in Artificial Intelligence.
 
 [//]: # (Prof.[Shunpan Liang]&#40;https://web.ysu.edu.cn/LSP/zh_CN/index/50461/list/index.htm&#41;.)
 
-My research interests include Medication recommendation, Bioinformatics, Molecular learning, Causal inference,
-and Multimodal large model.
+My research interests include AI for Healthcare, Recommender Systems, Causal Inference and Large Language Model.
 
 ### Education
 
