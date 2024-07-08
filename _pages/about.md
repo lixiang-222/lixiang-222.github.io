@@ -15,8 +15,7 @@ redirect_from:
 ### Current
 
 *I'm currently working as a PhD intern
-at [School of Computer Science](https://cs.pku.edu.cn/), [Peking University](https://www.pku.edu.cn/), and hope to
-enroll in Sep 2025 (if it goes well).*
+at [School of Computer Science](https://cs.pku.edu.cn/), [Peking University](https://www.pku.edu.cn/).*
 
 [//]: # (supervised by Prof.[Tengjiao Wang]&#40;https://cs.pku.edu.cn/info/1083/1702.htm&#41;,)
 
@@ -38,7 +37,7 @@ My research interests include AI for Healthcare, Recommender Systems, Causal Inf
 
 [//]: # (  at [School of Computer Science]&#40;https://cs.pku.edu.cn/&#41;, [Peking University]&#40;https://www.pku.edu.cn/&#41; &#40;expected&#41;)
 
-* Mar 2023 - Jun 2025 PhD Intern
+* Mar 2023 - Present PhD Intern
   at [School of Computer Science](https://cs.pku.edu.cn/), [Peking University](https://www.pku.edu.cn/)
 * Sep 2022 — Jun 2025 M.Eng.
   at [School of Information Science and Engineering](https://ise.ysu.edu.cn/), [Yanshan University](https://www.ysu.edu.cn/)
