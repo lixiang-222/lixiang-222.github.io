@@ -15,30 +15,32 @@ redirect_from:
 ### Current
 
 *I'm currently working as a PhD intern
-at [School of Computer Science](https://cs.pku.edu.cn/), [Peking University](https://www.pku.edu.cn/).*
-
-[//]: # (supervised by Prof.[Tengjiao Wang]&#40;https://cs.pku.edu.cn/info/1083/1702.htm&#41;,)
+at [School of Public Health](https://sph.pku.edu.cn/), [Peking University](https://www.pku.edu.cn/).*
+supervised by Prof.[Haoxuan Li](https://scholar.google.com/citations?user=gtDqiucAAAAJ&hl=en) 
+and Prof.[Xiaohua Zhou](https://sph.pku.edu.cn/info/1416/4185.htm).
 
 ### Short Bio
 
 My name is **Xiang Li** and I am a graduate student
 at [School of Information Science and Engineering](https://ise.ysu.edu.cn/), [Yanshan University](https://www.ysu.edu.cn/),
-majoring in Artificial Intelligence.
+supervised by
+Prof.[Shunpan Liang](https://web.ysu.edu.cn/LSP/zh_CN/index/50461/list/index.htm).
 
-[//]: # (supervised by Associate)
+My research interests include AI for Healthcare, Causal Inference and Recommender Systems.
 
-[//]: # (Prof.[Shunpan Liang]&#40;https://web.ysu.edu.cn/LSP/zh_CN/index/50461/list/index.htm&#41;.)
+[//]: # (### Recent work)
 
-My research interests include AI for Healthcare, Recommender Systems, Causal Inference and Large Language Model.
+[//]: # ()
+[//]: # ([2024/7] A causal discovery-based patient representation method is accepted by **CIKM2024**.)
+
+[//]: # ()
+[//]: # ([2023/11] A medication recommendation method for unbalanced medical data accepted by **Knowledge-Based Systems &#40;KBS&#41;**.)
+
 
 ### Education
 
-[//]: # (* Sep 2025 — Jun 2029 Ph.D.)
-
-[//]: # (  at [School of Computer Science]&#40;https://cs.pku.edu.cn/&#41;, [Peking University]&#40;https://www.pku.edu.cn/&#41; &#40;expected&#41;)
-
 * Mar 2023 - Present PhD Intern
-  at [School of Computer Science](https://cs.pku.edu.cn/), [Peking University](https://www.pku.edu.cn/)
+  at [School of Public Health](https://sph.pku.edu.cn/), [Peking University](https://www.pku.edu.cn/)
 * Sep 2022 — Jun 2025 M.Eng.
   at [School of Information Science and Engineering](https://ise.ysu.edu.cn/), [Yanshan University](https://www.ysu.edu.cn/)
 * Sep 2018 — Jun 2022 B.E.
